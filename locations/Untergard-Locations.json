@@ -1,0 +1,62 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "marker-color": "#7e7e7e",
+                "fill": "#7e7e7e",
+                "stroke": "#555555",
+                "marker-size": "large",
+                "marker-symbol": "",
+                "popup-text": "<center> <a href='https://master-noiza.github.io/Test/'><strong>Zum Blauen Wasser</strong> </a> <br> <a Taverne von Untergard </a> </center>",
+                "marker-group": "Tavern",
+                "ID": "1"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -412,-468
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "marker-color": "#7e7e7e",
+                "fill": "#7e7e7e",
+                "stroke": "#555555",
+                "marker-size": "medium",
+                "marker-symbol": "",
+                "popup-text": "<center> <a href='https://master-noiza.github.io/Athel-Loren-Map/'><strong>Athel Loren Map</strong> </a> <br> <a href='https://warhammerfantasy.fandom.com/wiki/Athel_Loren'><strong>Athel Loren</strong> - Der Wald beschützt </a> </center>",
+                "marker-group": "Athel Loren",
+                "ID": "1"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                   70,-630
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "marker-color": "#7e7e7e",
+                "fill": "#7e7e7e",
+                "stroke": "#555555",
+                "marker-size": "medium",
+                "marker-symbol": "",
+                "popup-text": "<center> <a href='https://edmundgelting.github.io/Kislev-Map'><strong>Kislev Map</strong> </a> <br> <a href='https://warhammerfantasy.fandom.com/wiki/Kislev'><strong>Kislev</strong> - Das Reich der Eiskönigin </a> </center>",
+                "marker-group": "Kislev",
+                "ID": "1"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                   632,1488
+                ]
+            }
+        }
+	]
+}
