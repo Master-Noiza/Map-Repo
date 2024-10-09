@@ -28,7 +28,7 @@
                 "stroke": "#555555",
                 "marker-size": "medium",
                 "marker-symbol": "",
-                "popup-text": "<a href='https://edmundgelting.github.io/the-wiki/2.-The-Races/3.-The-Markhalyr'><strong>The Tower of Smoke</strong> - Markhalyri Stronghold</a>",
+                "popup-text": "<center> <a href='https://master-noiza.github.io/Athel-Loren-Map/'><strong>Athel Loren Map</strong> </a> <br> <a href='https://warhammerfantasy.fandom.com/wiki/Athel_Loren'><strong>Athel Loren</strong> - Der Wald beschützt </a> </center>",
                 "marker-group": "Dwarven City",
                 "ID": "1"
             },
