@@ -28,14 +28,14 @@
                 "stroke": "#555555",
                 "marker-size": "medium",
                 "marker-symbol": "",
-                "popup-text": "<center> <a href='https://master-noiza.github.io/Athel-Loren-Map/'><strong>Athel Loren Map</strong> </a> <br> <a href='https://warhammerfantasy.fandom.com/wiki/Athel_Loren'><strong>Athel Loren</strong> - Der Wald beschützt </a> </center>",
-                "marker-group": "Athel Loren",
+                "popup-text": "<center> <a href='https://master-noiza.github.io/Test/'><strong>Moscher's Kräuter & Tränke</strong> </a> <br> <a Apotheke von Untergard </a> </center>",
+                "marker-group": "Herbalist",
                 "ID": "1"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                   70,-630
+                   -616,1468
                 ]
             }
         },
@@ -47,14 +47,14 @@
                 "stroke": "#555555",
                 "marker-size": "medium",
                 "marker-symbol": "",
-                "popup-text": "<center> <a href='https://edmundgelting.github.io/Kislev-Map'><strong>Kislev Map</strong> </a> <br> <a href='https://warhammerfantasy.fandom.com/wiki/Kislev'><strong>Kislev</strong> - Das Reich der Eiskönigin </a> </center>",
-                "marker-group": "Kislev",
+                "popup-text": "<center> <a href='https://edmundgelting.github.io/Test'><strong>Quintus' Kuriositäten</strong> </a> <br> <a Allerlei & Nützliches </a> </center>",
+                "marker-group": "Shop",
                 "ID": "1"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                   632,1488
+                   -732,-712
                 ]
             }
         }
