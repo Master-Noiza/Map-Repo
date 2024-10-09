@@ -28,7 +28,7 @@
                 "stroke": "#555555",
                 "marker-size": "medium",
                 "marker-symbol": "",
-                "popup-text": "<center> <a href='https://master-noiza.github.io/Test/'><strong>Moscher's Kräuter & Tränke</strong> </a> <br> <a Apotheke von Untergard </a> </center>",
+                "popup-text": "<center> <a href='https://master-noiza.github.io/Test/'><strong>Moscher's Kräuter & Tränke</strong> </a> <br> Apotheke von Untergard </center>",
                 "marker-group": "Herbalist",
                 "ID": "1"
             },
@@ -47,7 +47,7 @@
                 "stroke": "#555555",
                 "marker-size": "medium",
                 "marker-symbol": "",
-                "popup-text": "<center> <a href='https://edmundgelting.github.io/Test'><strong>Quintus' Kuriositäten</strong> </a> <br> <a Allerlei & Nützliches </a> </center>",
+                "popup-text": "<center> <a href='https://edmundgelting.github.io/Test'><strong>Quintus' Kuriositäten</strong> </a> <br> Allerlei & Nützliches </center>",
                 "marker-group": "Shop",
                 "ID": "1"
             },
