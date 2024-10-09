@@ -9,7 +9,7 @@
                 "stroke": "#555555",
                 "marker-size": "large",
                 "marker-symbol": "",
-                "popup-text": "<center> <a href='https://master-noiza.github.io/Test/'><strong>Zum Blauen Wasser</strong> </a> <br> <a Taverne von Untergard </a> </center>",
+                "popup-text": "<center> <a href='https://master-noiza.github.io/Test/'><strong>Zum Blauen Wasser</strong> </a> <br> Taverne von Untergard </center>",
                 "marker-group": "Tavern",
                 "ID": "1"
             },
