@@ -28,7 +28,7 @@
                 "stroke": "#555555",
                 "marker-size": "medium",
                 "marker-symbol": "",
-                "popup-text": "<a href='https://warhammerfantasy.fandom.com/wiki/Middenland'><strong>Middenland</strong></a>",
+                "popup-text": "<center> <a href='https://master-noiza.github.io/Middenland-Map/'><strong>Middenland Map</strong> </a> <br> <a href='https://warhammerfantasy.fandom.com/wiki/Middenland'><strong>Middenland</strong></a> </center>",
                 "marker-group": "Middenland",
                 "ID": "1"
             },
