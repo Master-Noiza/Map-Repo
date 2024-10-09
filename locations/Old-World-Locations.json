@@ -29,7 +29,7 @@
                 "marker-size": "medium",
                 "marker-symbol": "",
                 "popup-text": "<center> <a href='https://master-noiza.github.io/Athel-Loren-Map/'><strong>Athel Loren Map</strong> </a> <br> <a href='https://warhammerfantasy.fandom.com/wiki/Athel_Loren'><strong>Athel Loren</strong> - Der Wald beschützt </a> </center>",
-                "marker-group": "Dwarven City",
+                "marker-group": "Athel Loren",
                 "ID": "1"
             },
             "geometry": {
