@@ -47,14 +47,14 @@
                 "stroke": "#555555",
                 "marker-size": "medium",
                 "marker-symbol": "",
-                "popup-text": "<a href='https://edmundgelting.github.io/the-wiki/2.-The-Races/5.-The-Anthalyr'><strong>The Boiling Ponds</strong> - Anthalyri Settlement</a>",
-                "marker-group": "Tundra City",
+                "popup-text": "<center> <a href='https://edmundgelting.github.io/Kislev-Map'><strong>Kislev Map</strong> </a> <br> <a href='https://warhammerfantasy.fandom.com/wiki/Kislev'><strong>Kislev</strong> - Das Reich der Eiskönigin </a> </center>",
+                "marker-group": "Kislev",
                 "ID": "1"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                   782,2245
+                   632,1488
                 ]
             }
         }
