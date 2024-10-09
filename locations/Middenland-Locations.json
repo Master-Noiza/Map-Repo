@@ -9,14 +9,14 @@
                 "stroke": "#555555",
                 "marker-size": "large",
                 "marker-symbol": "",
-                "popup-text": "<center> <a href='https://master-noiza.github.io/Empire-Map/'><strong>Empire Map</strong> </a> <br> <a href='https://warhammerfantasy.fandom.com/wiki/The_Empire'><strong>Das Imperium</strong> - Glaube und Stahl </a> </center>",
-                "marker-group": "Empire",
+                "popup-text": "<center> <a href='https://master-noiza.github.io/Untergard-Map/'><strong>Untergard Map</strong> </a> <br> <a href='https://warhammerfantasy.fandom.com/wiki/Untergard'><strong>Untergard</strong> </a> </center>",
+                "marker-group": "Town",
                 "ID": "1"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    32,184
+                    1302,-64
                 ]
             }
         },
