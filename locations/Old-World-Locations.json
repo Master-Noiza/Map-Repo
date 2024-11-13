@@ -47,7 +47,7 @@
                 "stroke": "#555555",
                 "marker-size": "medium",
                 "marker-symbol": "",
-                "popup-text": "<center> <a href='https://edmundgelting.github.io/Kislev-Map'><strong>Kislev Map</strong> </a> <br> <a href='https://warhammerfantasy.fandom.com/wiki/Kislev'><strong>Kislev</strong> - Das Reich der Eiskönigin </a> </center>",
+                "popup-text": "<center> <a href='https://master-noiza.github.io/Kislev-Map/'><strong>Kislev Map</strong> </a> <br> <a href='https://warhammerfantasy.fandom.com/wiki/Kislev'><strong>Kislev</strong> - Das Reich der Eiskönigin </a> </center>",
                 "marker-group": "Kislev",
                 "ID": "1"
             },
