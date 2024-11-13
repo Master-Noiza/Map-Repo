@@ -9,14 +9,14 @@
                 "stroke": "#555555",
                 "marker-size": "large",
                 "marker-symbol": "",
-                "popup-text": "<center> <a href='https://master-noiza.github.io/Test/'><strong>Zum Blauen Wasser</strong> </a> <br> Taverne von Untergard </center>",
-                "marker-group": "Tavern",
+                "popup-text": "<center> <a href='https://master-noiza.github.io/Test/'><strong>Leuchtfeuer</strong> </a> <br> Außenposten Kislev's </center>",
+                "marker-group": "Village",
                 "ID": "1"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    -412,-468
+                    -588,374
                 ]
             }
         },
@@ -28,14 +28,14 @@
                 "stroke": "#555555",
                 "marker-size": "medium",
                 "marker-symbol": "",
-                "popup-text": "<center> <a href='https://master-noiza.github.io/Test/'><strong>Moscher's Kräuter & Tränke</strong> </a> <br> Apotheke von Untergard </center>",
-                "marker-group": "Herbalist",
+                "popup-text": "<center> <a href='https://master-noiza.github.io/Test/'><strong>Dervingrad</strong> </a> <br> Außenposten Kislev's </center>",
+                "marker-group": "Village",
                 "ID": "1"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                   -616,1468
+                   692,712
                 ]
             }
         },
@@ -47,14 +47,14 @@
                 "stroke": "#555555",
                 "marker-size": "medium",
                 "marker-symbol": "",
-                "popup-text": "<center> <a href='https://edmundgelting.github.io/Test'><strong>Quintus' Kuriositäten</strong> </a> <br> Allerlei & Nützliches </center>",
-                "marker-group": "Shop",
+                "popup-text": "<center> <a href='https://master-noiza.github.io/Kislev-City-Map/'><strong>Kislev-City Map</strong> </a> <br> <a href='https://warhammerfantasy.fandom.com/wiki/Kislev_(City)'> </a> </center>",
+                "marker-group": "City",
                 "ID": "1"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                   -732,-712
+                   -546,-1514
                 ]
             }
         }
