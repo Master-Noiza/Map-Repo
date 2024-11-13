@@ -47,7 +47,7 @@
                 "stroke": "#555555",
                 "marker-size": "medium",
                 "marker-symbol": "",
-                "popup-text": "<center> <a href='https://master-noiza.github.io/Kislev-City-Map/'><strong>Kislev-City Map</strong> </a> <br> <a href='https://warhammerfantasy.fandom.com/wiki/Kislev_(City)'> </a> </center>",
+                "popup-text": "<center> <a href='https://master-noiza.github.io/Kislev-City-Map/'><strong>Kislev-City Map</strong> </a> <br> <a href='https://warhammerfantasy.fandom.com/wiki/Kislev_(City)'><strong>Kislev Stadt</strong> - Sitz der Eiskönigin </a> </center>", </a> </center>",
                 "marker-group": "City",
                 "ID": "1"
             },
