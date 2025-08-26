@@ -1,0 +1,62 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "marker-color": "#7e7e7e",
+                "fill": "#7e7e7e",
+                "stroke": "#555555",
+                "marker-size": "large",
+                "marker-symbol": "",
+                "popup-text": "<center> <a href='https://master-noiza.github.io/Test/'><strong>Leuchtfeuer</strong> </a> <br> Außenposten Kislev's </center>",
+                "marker-group": "Village",
+                "ID": "1"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -588,374
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "marker-color": "#7e7e7e",
+                "fill": "#7e7e7e",
+                "stroke": "#555555",
+                "marker-size": "medium",
+                "marker-symbol": "",
+                "popup-text": "<center> <a href='https://master-noiza.github.io/Test/'><strong>Dervingrad</strong> </a> <br> Außenposten Kislev's </center>",
+                "marker-group": "Village",
+                "ID": "1"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                   692,712
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "marker-color": "#7e7e7e",
+                "fill": "#7e7e7e",
+                "stroke": "#555555",
+                "marker-size": "medium",
+                "marker-symbol": "",
+                "popup-text": "<center> <a href='https://master-noiza.github.io/Kislev-City-Map/'><strong>Kislev-City Map</strong> </a> <br> <a href='https://warhammerfantasy.fandom.com/wiki/Kislev_(City)'><strong>Kislev Stadt</strong></a> </center>",
+                "marker-group": "City",
+                "ID": "1"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                   -546,-1514
+                ]
+            }
+        }
+	]
+}
