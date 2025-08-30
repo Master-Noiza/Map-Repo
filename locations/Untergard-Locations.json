@@ -9,7 +9,7 @@
                 "stroke": "#555555",
                 "marker-size": "large",
                 "marker-symbol": "",
-                "popup-text": "<center> <a href='https://master-noiza.github.io/Test/'><strong>Zum Blauen Wasser</strong> </a> <br> Taverne von Untergard </center>",
+                "popup-text": "<center> <a href='https://master-noiza.github.io/the-wiki/2.-Atlas/1.-The-Northern-Expanse/Taverns/The-Familiar-Hearth'><strong>The Familiar Hearth</strong> </a> <br> Tavern of Respite </center>",
                 "marker-group": "Tavern",
                 "ID": "1"
             },
@@ -26,10 +26,10 @@
                 "marker-color": "#7e7e7e",
                 "fill": "#7e7e7e",
                 "stroke": "#555555",
-                "marker-size": "medium",
+                "marker-size": "small",
                 "marker-symbol": "",
                 "popup-text": "<center> <a href='https://master-noiza.github.io/the-wiki/2.-Atlas/3.-Taverns--and--Shops/Rainees-Herbs--and--Poultices'><strong>Rainee's Herbs and Poultices</strong> </a> <br> Apotheke von Untergard </center>",
-                "marker-group": "Herbalist",
+                "marker-group": "Apothecary",
                 "ID": "1"
             },
             "geometry": {
@@ -47,14 +47,14 @@
                 "stroke": "#555555",
                 "marker-size": "medium",
                 "marker-symbol": "",
-                "popup-text": "<center> <a href='https://edmundgelting.github.io/Test'><strong>Quintus' Kuriositäten</strong> </a> <br> Allerlei & Nützliches </center>",
-                "marker-group": "Shop",
+                "popup-text": "<center> <a href='https://edmundgelting.github.io/Test'><strong>Mayoral Longhouse</strong> </a> <br> City Hall of Respite </center>",
+                "marker-group": "City_Hall",
                 "ID": "1"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                   -732,-712
+                   -376,356
                 ]
             }
         }
